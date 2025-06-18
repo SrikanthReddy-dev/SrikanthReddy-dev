@@ -2,7 +2,7 @@
 
 👨‍💻 Full-Stack .NET Developer | React | SignalR | REST APIs  | .Net | C#
 🚀 Passionate about building real-time and scalable web applications  
-🌍 Based in Omaha, Nebraska
+🌍 Based in Texas , Unites states
 
 ## 🔧 Tech Stack
 - Backend: .NET Core, C#, ASP.NET
