@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Srikanth Reddy 👋
 
-<!--
-**SrikanthReddy-dev/SrikanthReddy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Full-Stack .NET Developer | React | SignalR | REST APIs  | .Net | C#
+🚀 Passionate about building real-time and scalable web applications  
+🌍 Based in Omaha, Nebraska
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Backend: .NET Core, C#, ASP.NET
+- Frontend: React.js, HTML, CSS
+- Database: SQL Server, MySQL
+- Tools: Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- 📧 Email: adidhalasrikanthreddy8@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/srikanth-reddy-adidhala-741b4a304)
