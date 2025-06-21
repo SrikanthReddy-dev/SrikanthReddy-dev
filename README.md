@@ -1,7 +1,7 @@
 # Hi, I'm Srikanth Reddy 👋
 
 👨‍💻 Full-Stack .NET Developer | React | SignalR | REST APIs  | .Net | C#
-🚀 Passionate about building real-time and scalable web applications  
+🚀 Passionate about building real-time and scalable web applications
 🌍 Based in Texas , Unites states
 
 ## 🔧 Tech Stack
@@ -13,3 +13,6 @@
 ## 📫 Connect with Me
 - 📧 Email: adidhalasrikanthreddy8@gmail.com
 - 💼 [LinkedIn](www.linkedin.com/in/srikanth-reddy-adidhala-741b4a304)
+
+## 📁 Projects
+- [TodoApi](./TodoApi) - simple minimal API example built with .NET 6
